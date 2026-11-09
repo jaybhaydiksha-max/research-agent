@@ -1,0 +1,3 @@
+topic,status,steps,seconds,urls,notes,sections_ok,relevance,grounding,citations,judge_avg,passed,error
+Impact of RBI's digital rupee on UPI,step_limit,10,150.8,0,0,False,1.0,5.0,5.0,3.67,False,
+Pros and cons of nuclear energy in India,completed,7,87.9,0,0,False,2.0,2.0,1.0,1.67,False,
